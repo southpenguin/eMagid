@@ -9,4 +9,4 @@ The codes for eMagid
 * [```style.css```](https://github.com/southpenguin/eMagid/blob/master/style.css) has the simple css codes for the page.
 
 * Screenshot:
-    ![Screenshot](https://github.com/southpenguin/eMagid/blob/master/Screenshot%202015-05-14%2007.04.38.png?raw=true)
+* ![Screenshot](https://github.com/southpenguin/eMagid/blob/master/Screenshot%202015-05-14%2007.04.38.png?raw=true)
